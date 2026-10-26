@@ -24,4 +24,7 @@ firmware.
 - [Exploit chain](research-notes/EXPLOIT_CHAIN.md)
 - [QN90B reproduction](research-notes/QN90B_REPRODUCTION.md)
 - [QN90F reproduction](research-notes/QN90F_REPRODUCTION.md)
+- [2020 Frame HDMA root report](research-notes/FRAME_2020_HDMA.md): custom
+  prototype on one exact firmware; no CLI backend included.
+- [2020 Frame sanitized evidence](research-notes/FRAME_2020_EVIDENCE.md)
 - [SWU AES extraction](research-notes/AES_EXTRACTION.md)
